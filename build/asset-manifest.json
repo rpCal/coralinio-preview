@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/coralinio-preview/build/static/css/main.e558b970.chunk.css",
-    "main.js": "/coralinio-preview/build/static/js/main.5f606fed.chunk.js",
-    "main.js.map": "/coralinio-preview/build/static/js/main.5f606fed.chunk.js.map",
+    "main.css": "/coralinio-preview/build/static/css/main.e7c06622.chunk.css",
+    "main.js": "/coralinio-preview/build/static/js/main.8c798471.chunk.js",
+    "main.js.map": "/coralinio-preview/build/static/js/main.8c798471.chunk.js.map",
     "runtime-main.js": "/coralinio-preview/build/static/js/runtime-main.1955a6e3.js",
     "runtime-main.js.map": "/coralinio-preview/build/static/js/runtime-main.1955a6e3.js.map",
-    "static/css/2.1ab5750d.chunk.css": "/coralinio-preview/build/static/css/2.1ab5750d.chunk.css",
-    "static/js/2.28c84fcd.chunk.js": "/coralinio-preview/build/static/js/2.28c84fcd.chunk.js",
-    "static/js/2.28c84fcd.chunk.js.map": "/coralinio-preview/build/static/js/2.28c84fcd.chunk.js.map",
+    "static/css/2.db237fb7.chunk.css": "/coralinio-preview/build/static/css/2.db237fb7.chunk.css",
+    "static/js/2.5273d048.chunk.js": "/coralinio-preview/build/static/js/2.5273d048.chunk.js",
+    "static/js/2.5273d048.chunk.js.map": "/coralinio-preview/build/static/js/2.5273d048.chunk.js.map",
     "index.html": "/coralinio-preview/build/index.html",
-    "precache-manifest.ec2720589654ab7017cb7d826c037e5d.js": "/coralinio-preview/build/precache-manifest.ec2720589654ab7017cb7d826c037e5d.js",
+    "precache-manifest.13453a1e4a71d22378e4b8fcf66ee6a6.js": "/coralinio-preview/build/precache-manifest.13453a1e4a71d22378e4b8fcf66ee6a6.js",
     "service-worker.js": "/coralinio-preview/build/service-worker.js",
-    "static/css/2.1ab5750d.chunk.css.map": "/coralinio-preview/build/static/css/2.1ab5750d.chunk.css.map",
-    "static/css/main.e558b970.chunk.css.map": "/coralinio-preview/build/static/css/main.e558b970.chunk.css.map"
+    "static/css/2.db237fb7.chunk.css.map": "/coralinio-preview/build/static/css/2.db237fb7.chunk.css.map",
+    "static/css/main.e7c06622.chunk.css.map": "/coralinio-preview/build/static/css/main.e7c06622.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.1955a6e3.js",
-    "static/css/2.1ab5750d.chunk.css",
-    "static/js/2.28c84fcd.chunk.js",
-    "static/css/main.e558b970.chunk.css",
-    "static/js/main.5f606fed.chunk.js"
+    "static/css/2.db237fb7.chunk.css",
+    "static/js/2.5273d048.chunk.js",
+    "static/css/main.e7c06622.chunk.css",
+    "static/js/main.8c798471.chunk.js"
   ]
 }
