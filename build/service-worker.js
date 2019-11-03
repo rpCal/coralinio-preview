@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/coralinio-preview/build/precache-manifest.b0a3467ed1edb6779efdad9b215dc302.js"
+  "/coralinio-preview/build/precache-manifest.a5515679589e73ff887ea8b0473c6f19.js"
 );
 
 self.addEventListener('message', (event) => {
