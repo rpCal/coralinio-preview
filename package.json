@@ -1,0 +1,22 @@
+{
+  "name": "coralinio-preview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpCal/coralinio-preview.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpCal/coralinio-preview/issues"
+  },
+  "homepage": "https://github.com/rpCal/coralinio-preview#readme",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
