@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/coralinio-preview/build/static/css/main.996e407c.chunk.css",
-    "main.js": "/coralinio-preview/build/static/js/main.e82cecdb.chunk.js",
-    "main.js.map": "/coralinio-preview/build/static/js/main.e82cecdb.chunk.js.map",
+    "main.js": "/coralinio-preview/build/static/js/main.10f6f463.chunk.js",
+    "main.js.map": "/coralinio-preview/build/static/js/main.10f6f463.chunk.js.map",
     "runtime-main.js": "/coralinio-preview/build/static/js/runtime-main.1955a6e3.js",
     "runtime-main.js.map": "/coralinio-preview/build/static/js/runtime-main.1955a6e3.js.map",
     "static/css/2.db237fb7.chunk.css": "/coralinio-preview/build/static/css/2.db237fb7.chunk.css",
     "static/js/2.85fddc35.chunk.js": "/coralinio-preview/build/static/js/2.85fddc35.chunk.js",
     "static/js/2.85fddc35.chunk.js.map": "/coralinio-preview/build/static/js/2.85fddc35.chunk.js.map",
     "index.html": "/coralinio-preview/build/index.html",
-    "precache-manifest.a5515679589e73ff887ea8b0473c6f19.js": "/coralinio-preview/build/precache-manifest.a5515679589e73ff887ea8b0473c6f19.js",
+    "precache-manifest.401d4196f76d0d6c88f764a90a64d1d9.js": "/coralinio-preview/build/precache-manifest.401d4196f76d0d6c88f764a90a64d1d9.js",
     "service-worker.js": "/coralinio-preview/build/service-worker.js",
     "static/css/2.db237fb7.chunk.css.map": "/coralinio-preview/build/static/css/2.db237fb7.chunk.css.map",
     "static/css/main.996e407c.chunk.css.map": "/coralinio-preview/build/static/css/main.996e407c.chunk.css.map"
@@ -19,6 +19,6 @@
     "static/css/2.db237fb7.chunk.css",
     "static/js/2.85fddc35.chunk.js",
     "static/css/main.996e407c.chunk.css",
-    "static/js/main.e82cecdb.chunk.js"
+    "static/js/main.10f6f463.chunk.js"
   ]
 }

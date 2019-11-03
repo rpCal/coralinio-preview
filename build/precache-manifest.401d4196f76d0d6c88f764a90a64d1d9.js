@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "783b74d584c67e5936bff3200e8a1636",
+    "revision": "14e2c5e95315cbb77481206d6ff29418",
     "url": "/coralinio-preview/build/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coralinio-preview/build/static/css/2.db237fb7.chunk.css"
   },
   {
-    "revision": "9f1d892990fc078d57a1",
+    "revision": "67149aa15789b289e1fd",
     "url": "/coralinio-preview/build/static/css/main.996e407c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/coralinio-preview/build/static/js/2.85fddc35.chunk.js"
   },
   {
-    "revision": "9f1d892990fc078d57a1",
-    "url": "/coralinio-preview/build/static/js/main.e82cecdb.chunk.js"
+    "revision": "67149aa15789b289e1fd",
+    "url": "/coralinio-preview/build/static/js/main.10f6f463.chunk.js"
   },
   {
     "revision": "11b2f30a6c6911db9907",
