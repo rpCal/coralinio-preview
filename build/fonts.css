@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url("./font/montserrat/Montserrat-Bold.ttf") format("woff2");
+}
+@font-face {
+  font-family: "Citrica-Regular";
+  src: url("./font/citrica/Citrica-Regular.ttf") format("woff2");
+}
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url("./font/montserrat/Montserrat-Regular.ttf") format("woff2");
+}
+@font-face {
+  font-family: "Berlin_Sans_FB_Demi_Bold";
+  src: url("./font/Berlin_Sans_FB_Demi_Bold/Berlin_Sans_FB_Demi_Bold.ttf")
+    format("woff2");
+}
