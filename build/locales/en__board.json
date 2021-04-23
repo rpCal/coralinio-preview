@@ -1,0 +1,11 @@
+{
+  "mode": {
+    "select_or_move": "select_or_move",
+    "select_multiple_beads": "select_multiple_beads",
+    "add_beads": "",
+    "paint_beads": "",
+    "delete_beads": "",
+    "add_region": "",
+    "fast_add_multiple_beads": ""
+  }
+}

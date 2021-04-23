@@ -1,0 +1,11 @@
+{
+  "mode": {
+    "select_or_move": "Zaznacz lub przesuń",
+    "select_multiple_beads": "Zaznacz wiele koralików",
+    "add_beads": "Dodaj koraliki",
+    "paint_beads": "Pomaluj koraliki",
+    "delete_beads": "Usuń koraliki",
+    "add_region": "Dodaj region z siatką",
+    "fast_add_multiple_beads": "Dodaj wiele koralików"
+  }
+}
