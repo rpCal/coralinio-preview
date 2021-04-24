@@ -1,0 +1,14 @@
+{
+  "title": "Tablice",
+  "links": {
+    "create_board": "Stwórz nową tablice",
+    "edit_board": "Edytuj",
+    "back_to_home": "Wróć do strony głównej",
+    "demo_board_name": "Tablica demonstracyjna",
+    "demo_board": "Sprawdź demo"
+  },
+  "table": {
+    "column_name": "Nazwa",
+    "column_actions": "Akcje"
+  }
+}

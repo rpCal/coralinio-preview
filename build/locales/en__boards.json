@@ -1,0 +1,14 @@
+{
+  "title": "Boards",
+  "links": {
+    "create_board": "Create board",
+    "edit_board": "Edit",
+    "back_to_home": "Back to home",
+    "demo_board_name": "Demo board",
+    "demo_board": "Checkout demo"
+  },
+  "table": {
+    "column_name": "name",
+    "column_actions": "actions"
+  }
+}

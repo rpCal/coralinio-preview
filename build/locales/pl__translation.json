@@ -1,1 +1,10 @@
-{}
+{
+  "list_is_empty": "Lista jest pusta",
+  "query_loading": "",
+  "query_error": "",
+  "welcome": "Witaj!",
+  "links": {
+    "boards": "Tablice",
+    "logout": "Wyloguj się"
+  }
+}

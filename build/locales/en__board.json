@@ -1,11 +1,35 @@
 {
   "mode": {
-    "select_or_move": "select_or_move",
-    "select_multiple_beads": "select_multiple_beads",
-    "add_beads": "",
-    "paint_beads": "",
-    "delete_beads": "",
-    "add_region": "",
-    "fast_add_multiple_beads": ""
+    "select_or_move": "Select or move",
+    "select_multiple_beads": "Select multiple beads",
+    "add_beads": "Add beads",
+    "paint_beads": "Paint beads",
+    "delete_beads": "Delete beads",
+    "add_region": "Add region",
+    "fast_add_multiple_beads": "Fast add multiple beads"
+  },
+  "bead": {
+    "summary_colors_with_count": "{{color}}-{{count}}",
+    "summary_colors_with_count_plural": "{{color}}-{{count}}"
+  },
+  "tab": {
+    "comments": "Comments",
+    "history_events": "History events",
+    "objects": "Objects",
+    "comments_title": "Comments"
+  },
+  "ui": {
+    "zoom_out": "Zoom out",
+    "zoom_in": "Zoom in",
+    "zoom_percentage": "Zoom percentage"
+  },
+  "modal_edit_board": {
+    "title": "Edit board",
+    "name_input_placeholder": "type board name"
+  },
+  "modal_search_bead": {
+    "search_input_placeholder": "Search bead",
+    "open_advanced_filters": "More",
+    "close_advanced_filters": "Less"
   }
 }

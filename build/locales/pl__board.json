@@ -7,5 +7,30 @@
     "delete_beads": "Usuń koraliki",
     "add_region": "Dodaj region z siatką",
     "fast_add_multiple_beads": "Dodaj wiele koralików"
+  },
+  "bead": {
+    "summary_colors_with_count_0": "{{color}}-{{count}}",
+    "summary_colors_with_count_1": "{{color}}-{{count}}",
+    "summary_colors_with_count_2": "{{color}}-{{count}}"
+  },
+  "tab": {
+    "comments": "Komentarze",
+    "history_events": "Historia",
+    "objects": "Obiekty",
+    "comments_title": "Komentarze"
+  },
+  "ui": {
+    "zoom_out": "Oddal",
+    "zoom_in": "Przybliż",
+    "zoom_percentage": "Aktualne przybliżenie"
+  },
+  "modal_edit_board": {
+    "title": "Edycja projektu",
+    "name_input_placeholder": "wpisz nazwa projektu"
+  },
+  "modal_search_bead": {
+    "search_input_placeholder": "Wyszukaj koralik",
+    "open_advanced_filters": "Więcej",
+    "close_advanced_filters": "Mniej"
   }
 }

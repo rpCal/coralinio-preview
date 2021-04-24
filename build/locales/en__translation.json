@@ -1,1 +1,10 @@
-{}
+{
+  "list_is_empty": "Lista is empty",
+  "query_loading": "loading...",
+  "query_error": "error: ",
+  "welcome": "Welcome",
+  "links": {
+    "boards": "Boards",
+    "logout": "Logout"
+  }
+}
