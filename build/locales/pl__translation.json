@@ -1,7 +1,7 @@
 {
   "list_is_empty": "Lista jest pusta",
-  "query_loading": "",
-  "query_error": "",
+  "query_loading": "Wczytywanie...",
+  "query_error": "Błąd: ",
   "welcome": "Witaj!",
   "links": {
     "boards": "Tablice",

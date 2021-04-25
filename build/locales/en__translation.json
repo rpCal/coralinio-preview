@@ -1,7 +1,7 @@
 {
   "list_is_empty": "Lista is empty",
-  "query_loading": "loading...",
-  "query_error": "error: ",
+  "query_loading": "Loading...",
+  "query_error": "Error: ",
   "welcome": "Welcome",
   "links": {
     "boards": "Boards",
