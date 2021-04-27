@@ -1,0 +1,4 @@
+{
+  "long": "{{date, PPPP}}",
+  "hh_mm_ss": "{{date, HH:mm:ss}}"
+}
